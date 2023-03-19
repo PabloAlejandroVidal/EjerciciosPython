@@ -14,3 +14,14 @@
 
 #5 - Crear un programa que simule un juego de piedra, papel o tijera entre dos jugadores, 
 # pidiendo que ingresen su elección y mostrando el resultado.
+
+#6 - Crear un programa que calcule el factorial de un número ingresado por el usuario.
+
+#7 - Crear un programa que lea una lista de números y devuelva la suma de todos los elementos.
+
+#8 - Crear un programa que convierta un número decimal en binario.
+
+#9 - Crear un programa que determine si un número ingresado por el usuario es primo o no.
+
+#10 - Crear un programa que simule una calculadora básica, pidiendo al usuario que ingrese dos números y una operación (+, -, *, /) y devolviendo el resultado.
+
