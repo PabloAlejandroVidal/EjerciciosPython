@@ -25,3 +25,22 @@
 
 #10 - Crear un programa que simule una calculadora básica, pidiendo al usuario que ingrese dos números y una operación (+, -, *, /) y devolviendo el resultado.
 
+#11 - Crear un programa que determine si una cadena de texto es un palíndromo (se lee igual de izquierda a derecha que de derecha a izquierda).
+
+#12 - Crear un programa que lea una lista de números y devuelva el promedio de todos los elementos.
+
+#13 - Crear un programa que lea una lista de números y devuelva el número más grande y el más pequeño.
+
+#14 - Crear un programa que convierta un número binario en decimal.
+
+#15 - Crear un programa que calcule la raíz cuadrada de un número ingresado por el usuario.
+
+#16 - Crear un programa que lea una lista de nombres y devuelva el nombre más largo y el más corto.
+
+#17 - Crear un programa que calcule la media, la mediana y la moda de una lista de números.
+
+#18 - Crear un programa que lea una lista de números y elimine los duplicados.
+
+#19 - Crear un programa que lea una cadena de texto y la cifre mediante el cifrado de César (cada letra se reemplaza por otra letra que se encuentra un número fijo de posiciones más adelante en el alfabeto).
+
+#20 - Crear un programa que lea una lista de números y devuelva una nueva lista con los números ordenados de menor a mayor.
