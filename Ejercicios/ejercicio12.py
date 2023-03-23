@@ -21,6 +21,8 @@ while True:
         num_ingresado = input("Ingresa un numero para agregar a la lista: ")
         if num_ingresado == "":
             break
+        if not isinstance(int(num_ingresado), int):
+            raise ValueError
         num_ingresado = int(num_ingresado)
         lista_numeros.append(num_ingresado)
     except Exception:
